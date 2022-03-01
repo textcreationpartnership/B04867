@@ -1,0 +1,766 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The propositions presented to His Majestie at Newcastle, the 24 day of July 1646. by the Earles of Pembroke and Suffolke... Commissioners from the Lords and Commons assembled in the Parliament of England, in the name, and in the behalf of the Kingdoms of England and Ireland, and by the Earle of Lowdon Chancellor of Scotland, and the Marquesse of Argyle Commissioner of the Parliament of Scotland, in the name, and in the behalf of the Kingdome of Scotland. With His Majesties gracious answer thereunto : at Newcastle the first day of August 1646.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04867</idno>
+            <idno type="STC">Wing P3800AA</idno>
+            <idno type="STC">ESTC R182210</idno>
+            <idno type="EEBO-CITATION">51784619</idno>
+            <idno type="OCLC">ocm 51784619</idno>
+            <idno type="VID">175028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175028)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The propositions presented to His Majestie at Newcastle, the 24 day of July 1646. by the Earles of Pembroke and Suffolke... Commissioners from the Lords and Commons assembled in the Parliament of England, in the name, and in the behalf of the Kingdoms of England and Ireland, and by the Earle of Lowdon Chancellor of Scotland, and the Marquesse of Argyle Commissioner of the Parliament of Scotland, in the name, and in the behalf of the Kingdome of Scotland. With His Majesties gracious answer thereunto : at Newcastle the first day of August 1646.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+                  <author>Suffolk, James Howard, Earl of, 1619-1688.</author>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+                  <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler ...,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, print show-through, with some loss of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="bookplate">
+            <pb facs="tcp:175028:1" rendition="simple:additions"/>
+            <pb facs="tcp:175028:1"/>
+            <p>
+               <figure>
+                  <head>HONI SOIT MAL Y PENSE</head>
+                  <figDesc>Royal blazon of the United Kingdom</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175028:2"/>
+            <pb facs="tcp:175028:2" rendition="simple:additions"/>
+            <p>THE PROPOSITIONS PRESENTED To His MAjESTIE at <hi>Newcaſtle, the</hi> 24 <hi>day of July</hi> 1646.</p>
+            <p>By the Earles of <hi>Pembroke</hi> and <hi>Suffolke,</hi> Sir <hi>Walter Earle</hi> and Sir <hi>John Hipiſley</hi> Knights, and M. <hi>Goodwin</hi> and M. <hi>Robiſon</hi> Commiſſioners from the <hi>Lords</hi> and <hi>Commons</hi> aſſembled in the Parliament of <hi>England,</hi> in the name, and in the behalf of the Kingdoms of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>And by the Earle of <hi>Lowdon</hi> Chancellor of <hi>Scotland,</hi> and the Marqueſſe of <hi>Argyle</hi> Com<g ref="char:EOLhyphen"/>miſſioner of the Parliament of <hi>Scotland,</hi> in the name, and in the behalf of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland.</hi>
+            </p>
+            <p>WITH HIS MAjESTIES GRACIOUS ANSWER thereunto: At <hi>Newcaſtle</hi> the firſt day of Auguſt 1646.</p>
+            <p>Printed at <hi>Edinburgh</hi> by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175028:3"/>
+            <pb n="1" facs="tcp:175028:3"/>
+            <opener>
+               <salute>May it pleaſe your Majeſtie;</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E the Lords and Commons Aſ<g ref="char:EOLhyphen"/>ſembled in the Parliament of</hi> England, <hi>in the name, and on the behalf of the Kingdoms of</hi> England <hi>and</hi> Ireland, <hi>and the Commiſsioners of the Parlia<g ref="char:EOLhyphen"/>ment of</hi> Scotland, <hi>in the name, and on the behalf of the Kingdom of</hi> Scotland, <hi>Do humbly preſent unto your Ma<g ref="char:EOLhyphen"/>jeſtie, the humble deſires and Propoſitions for a ſafe and well-grounded Peace, agreed upon by the Parliaments of both Kingdoms reſpectively: Unto which we do pray your Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſties Aſſent: And that they, and all ſuch Bills as ſhall be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endred to your Majeſtie in purſuance of them, or any of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, may be Eſtabliſhed and Enacted for Statutes and Acts of Parliament, by your Majeſties Royall Aſſent in the Par<g ref="char:EOLhyphen"/>liaments of both Kingdoms reſpectively.</hi>
+            </p>
+            <div n="1" type="part">
+               <p>I. WHereas both Houſes of the Parliament of <hi>England,</hi> have been neceſſitated to under<g ref="char:EOLhyphen"/>take a War in their juſt and lawfull defence: And after<g ref="char:EOLhyphen"/>wards both Kingdoms of <hi>England</hi> and <hi>Scotland</hi> joyned in ſolemne League and Covenant, were engaged to pro<g ref="char:EOLhyphen"/>ſecute the ſame.</p>
+               <pb n="2" facs="tcp:175028:4"/>
+               <p> That by Act of Parliament in each Kingdom reſpe<g ref="char:EOLhyphen"/>ctively, all Oathes, Declarations, and Proclamations heretofore had, or hereafter to be had againſt both or either of the Houſes of Parliament of <hi>England,</hi> the Parliament of the kingdome of <hi>Scotland,</hi> and the late Convention of Eſtates in <hi>Scotland,</hi> or Committees flowing from the Parliament or Convention in <hi>Scotland,</hi> or their Ordinances and proceedings; or againſt any for adhering unto them; or for doing or executing any Office, Place, or Charge, by any Autho<g ref="char:EOLhyphen"/>rity derived from them. And all Judgements, Indi<g ref="char:EOLhyphen"/>ctments, Outlawries, Attainders, and Inquifitions, in any the ſaid Cauſes; And all graunts thereupon made or had, or to be made or had, be declared <hi>Null,</hi> ſup<g ref="char:EOLhyphen"/>preſſed and forbidden. And that this be publikely inti<g ref="char:EOLhyphen"/>mated in all Pariſh Churches within His Majeſties Dominions, and all other places needfull.</p>
+            </div>
+            <div n="2" type="part">
+               <p>II. That His Majeſtie according to the laudable example of His Royall Father of happy memory may be pleaſed to ſwear and ſigne the late Solemne League and Covenant; And that an Act of Parliament be paſ<g ref="char:EOLhyphen"/>ſed in both Kingdoms reſpectively, for enjoyning the taking thereof by all the Subjects of the three King<g ref="char:EOLhyphen"/>domes; And the Ordinances concerning the manner of taking the ſame in both Kingdomes, be confirmed by Acts of Parliament reſpectively, with ſuch penal<g ref="char:EOLhyphen"/>ties, as by mutuall advice of both Kingdomes ſhall be agreed upon.</p>
+            </div>
+            <div n="3" type="part">
+               <p>III. That a Bill be paſſed for the utter aboliſhing and taking away of all Archbiſhops, Biſhops, their Chancellors, and Commiſſaries, Deanes and Sub-Deans, Deans and Chapters, Arch-Deacons, Canons,
+<pb n="3" facs="tcp:175028:4"/>and Prebendaries; And all Chaunters, Chancellors, Treaſurers, Sub-Treaſurers, Succentors, and Sacriſts; and all Vicars Chorill, and Choreſters, old Vicars, and new Vicars of any Cathedrall or Collegiate Church, and all other their under Officers, out of the Church of <hi>England,</hi> and Dominion of <hi>Wales;</hi> And out of the Church of <hi>Ireland,</hi> with ſuch alterations concerning the Eſtates of Prelats, as ſhall agree with the Articles of the late Treaty of the Date at <hi>Edinburgh,</hi> 29 <hi>November</hi> 1643. and joynt Declaration of both Kingdoms.</p>
+            </div>
+            <div n="4" type="part">
+               <p>IIII. That the Ordinances concerning the Cal<g ref="char:EOLhyphen"/>ling and ſitting of the Aſſembly of Divines, be con<g ref="char:EOLhyphen"/>firmed by Act of Parliament.</p>
+            </div>
+            <div n="5" type="part">
+               <p>V. That Reformation of Religion, according to the Covenant, be ſettled by Act of Parliament, in ſuch manner as both Houſes have agreed, or ſhall agree up<g ref="char:EOLhyphen"/>on, after Conſultation had with the Aſſembly of Divines.</p>
+            </div>
+            <div n="6" type="part">
+               <p>VI. For as much as both Kingdoms are mutually obliged by the ſame Covenant, to endeavour the nee<g ref="char:EOLhyphen"/>reſt Conjunction and Uniformity in matters of Religi<g ref="char:EOLhyphen"/>on, That ſuch Unity and Uniformity in Religion ac<g ref="char:EOLhyphen"/>cording to the Covenant, as after Conſultation had with the Divines of both Kingdoms now Aſſembled, is or ſhall be joyntly agreed upon by both Houſes of Parliament of <hi>England,</hi> and by the Church and King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> be confirmed by Acts of Parliament of both Kingdoms reſpectively.</p>
+            </div>
+            <div n="7" type="part">
+               <p>VII. That for the more effectuall diſabling Jeſuits, Prieſts, Papiſts, and Popiſh Recuſants from diſturb<g ref="char:EOLhyphen"/>ing the State, and deluding the Lawes; and for the better diſcovering, and ſpeedy Conviction of Recu<g ref="char:EOLhyphen"/>ſants,
+<pb n="4" facs="tcp:175028:5"/>an Oath be eſtabliſhed by Act of Parliament to be Adminiſtred to them, wherein they ſhall abjure and renounce the Popes Supremacy, the Doctrine of Tranſubſtantiation, Purgatory, Worſhiping of the Conſecrated Hoaſt, Crucifixes, and Images, and all other Popiſh Superſtitions and Errours: and refuſing the ſaid Oath, being tendred in ſuch manner as ſhall be appointed by the ſaid Act, to be a ſufficient conviction of Recuſancy.</p>
+            </div>
+            <div n="8" type="part">
+               <p>VIII. An Act of Parliament for Education of the Children of Papiſts by Proteſtants, in the Proteſtant Religion.</p>
+            </div>
+            <div n="9" type="part">
+               <p>IX. An Act for the true Leavie of the Penalties againſt them; which Penalties to be Leavied and diſ<g ref="char:EOLhyphen"/>poſed in ſuch manner as both Houſes ſhall agree on, wherein to be provided that His Majeſty ſhall have no loſſe.</p>
+            </div>
+            <div n="10" type="part">
+               <p>X. That an Act be paſſed in Parliament, whereby the practiſes of Papiſts againſt the State may be pre<g ref="char:EOLhyphen"/>vented, and the Lawes againſt them duely executed, and a ſtricter courſe taken to prevent the Saying, or Hearing of Maſſe in the Court, or any other part of this Kingdom.</p>
+            </div>
+            <div n="11" type="part">
+               <p>XI. The like for the Kingdom of <hi>Scotland,</hi> con<g ref="char:EOLhyphen"/>cerning the foure laſt preceding Propoſitions, in ſuch manner as the Eſtates of the Parliament there ſhall think fit.</p>
+            </div>
+            <div n="12" type="part">
+               <p>XII. That the King do give his Royall aſſent to an Act for the due obſervation of the Lords Day.</p>
+               <p>And to the Bill for the ſuppreſſion of Innovations in Churches and Chappels, in and about the Worſhip of God, &amp;c.</p>
+               <pb n="5" facs="tcp:175028:5"/>
+               <p> And for the better advancement of the Preaching of Gods holy Word in all parts of this Kingdom.</p>
+               <p>And to the Bill againſt the enjoying of Pluralities of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enefices by Spirituall Perſons and Non-Reſidency.</p>
+               <p>And to an Act to be framed and agreed upon by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th Houſes of Parliament, for the reforming and re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lating of both Univerſities, of the Colledges of Weſtminſter, Wincheſter, and Eaton.</p>
+               <p>And to ſuch Act or Acts for raiſing of Moneys for the payment and ſatisfying of the Publike Debts and Damages of the Kingdom, and other Publike uſes, as ſhall hereafter be agreed on by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment: and that if the King do not give his Aſſent there<g ref="char:EOLhyphen"/>unto, then it being done by both Houſes of Parliament, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſame ſhall be as valid to all Intents and Purpoſes, as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Royall Aſſent had been given thereunto.</p>
+               <p>The like for the Kingdom of <hi>Scotland.</hi>
+               </p>
+               <p>And that his Majeſty give aſſurance of his conſent<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in the Parliament of <hi>Scotland,</hi> to an Act, acknow<g ref="char:EOLhyphen"/>ledging and ratifying the Acts of the Convention of Eſtates of <hi>Scotland,</hi> called by the Counſell and Con<g ref="char:EOLhyphen"/>ſervers of the Peace, and the Commiſſioners for the Common Burthens, and Aſſembled the two and twentieth day of June 1643. And ſeverall times continued ſince: and of the Parliament of that King<g ref="char:EOLhyphen"/>dom ſince Conveened.</p>
+            </div>
+            <div n="13" type="part">
+               <p>XIII. That the Lords and Commons in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> aſſembled, ſhall during the ſpace of twenty yeers, from the firſt of July 1646. Arm, Train, and Diſcipline, or cauſe to be Armed, Trained, and Diſciplined, all the Forees of the Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> the Iſles of
+<pb n="6" facs="tcp:175028:6"/>
+                  <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> already raiſed both for Sea and Land Service; and ſhall from time to time during the ſaid ſpace of twenty yeers, Raiſe, Leavie, Arm, Train, and Diſci<g ref="char:EOLhyphen"/>pline, or cauſe to be raiſed, Leavied, Armed, Trained, and Diſciplined, any other Forces for Land and Sea ſervice, in the Kingdoms, Dominions, and places afore<g ref="char:EOLhyphen"/>ſaid, as in their judgements they ſhall from time to time during the ſaid ſpace of twenty yeers think fit and appoint: And that neither the King, his Heirs, or Suc<g ref="char:EOLhyphen"/>ceſſors, nor any other but ſuch as ſhall act by the Au<g ref="char:EOLhyphen"/>thority or approbation of the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons, ſhall during the ſaid ſpace of twenty yeers, exer<g ref="char:EOLhyphen"/>ciſe any of the Powers aforeſaid.</p>
+               <p>And the like for the Kingdome of <hi>Scotland,</hi> if the Eſtates of the Parliament there ſhall think fit.</p>
+               <p>That Moneys be raiſed and leavied for the mainte<g ref="char:EOLhyphen"/>nance and uſe of the ſaid Forces for Land ſervice, and of the Navie and Forces for Sea ſervice, in ſuch ſort, and by ſuch wayes and meanes as the ſaid Lords and Commons ſhal from time to time during the ſaid ſpace of twenty yeers think fit and appoint, and not other<g ref="char:EOLhyphen"/>wiſe. That all the ſaid Forces both for Land and Sea ſervice, ſo raiſed or leavied, or to be raiſed or leavied, and alſo the Admiralty and Navie, ſhall from time to time during the ſaid ſpace of twenty yeers, be imploy<g ref="char:EOLhyphen"/>ed, mannaged, ordered, and diſpoſed by the ſaid Lords and Commons, in ſuch ſort, and by ſuch wayes and means as they ſhall think fit and appoint, and not other<g ref="char:EOLhyphen"/>wiſe. And the ſaid Lords and Commons, during the ſaid ſpace of twenty yeers, ſhall have power;</p>
+               <p n="1">1. To ſuppreſſe all Forces raiſed, or to be raiſed,
+<pb n="7" facs="tcp:175028:6"/>without authority and conſent of the ſaid Lords and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommons, to the diſturbance of the publike Peace of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Barwick</hi> upon <hi>Tweed,</hi> or any of them.</p>
+               <p n="2">2. To ſuppreſſe any Forraign Forces who ſhall in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de, or indeavour to invade the Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> the Iſles of <hi>Guern<g ref="char:EOLhyphen"/>ſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny of them.</p>
+               <p n="3">3. To conjoyn ſuch Forces of the Kingdome of <hi>England</hi> with the Forces of the Kingdom of <hi>Scotland,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the ſaid Lords and Commons ſhall from time to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me during the ſaid ſpace of twenty yeers, judge fit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd neceſſary; To reſiſt all Forreign Invaſions, and to ſuppreſſe any Forces, raiſed or to be raiſed againſt, or within either of the ſaid Kingdoms, To the diſturbance of the publike Peace of the ſaid Kingdoms, or any of them, by any authority under the great Seale, or other warrant whatſoever, without conſent of the ſaid Lords and Commons of the Parliament of <hi>England,</hi> and the Parliament or the Eſtates of the Parliament of <hi>Scotland</hi> reſpectively: And that no Forces of either Kingdom, ſhall go into or continue in the other Kingdom, with<g ref="char:EOLhyphen"/>out the advice and deſire of the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons of the Parliament of <hi>England,</hi> and the Parlia<g ref="char:EOLhyphen"/>ment of the Kingdom of <hi>Scotland,</hi> or ſuch as ſhall be by them appointed for that purpoſe: And that after the expiration of the ſaid twenty yeers, neither the King, his Heirs or Succeſſors, or any perſon or perſons, by colour or pretence of any Commiſſion, Power, Depu<g ref="char:EOLhyphen"/>tation, or authority to be derived from the King, his
+<pb n="8" facs="tcp:175028:7"/>Heirs or Succeſſors, or any of them, ſhall Raiſe, Arm, Train, Diſcipline, Imploy, Order, Mannage, Disband, or diſpoſe any of the Forces by Sea or Land, of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> the Dominion of <hi>Wales,</hi> Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed;</hi> Nor exerciſe any of the ſaid powers or authorities in the precedent Articles men<g ref="char:EOLhyphen"/>tioned and expreſſed to be, during the ſaid ſpace of twenty yeers, in the ſaid Lords and Commons; Nor do any act or thing concerning the execution of the ſaid powers or authorities, or any of them, without the conſent of the ſaid Lords and Commons firſt had and obtained. That after the expiration of the ſaid twenty yeers, in all caſes wherein the Lords and Commons ſhall declare the ſafety of the Kingdom to be concern<g ref="char:EOLhyphen"/>ed, and ſhall thereupon paſſe any Bill or Bills for the Raiſing, Arming, Training, Diſciplining, Imploying, Managing, Ordering, or Diſpoſing of the Forces by Sea or Land, of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> the Dominion of <hi>Wales,</hi> Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> or of any part of the ſaid Forces, or concerning the Admiralty and Na<g ref="char:EOLhyphen"/>vie, or concerning the Leavying of Moneys for the Raiſing, Maintenance, or uſe of the ſaid Forces for Land ſervice, or of the Navie and Forces for Sea ſer<g ref="char:EOLhyphen"/>vice, or of any part of them; And if that the Royall Aſſent to ſuch Bill or Bills ſhall not be given in the Houſe of Peers within ſuch time after the paſſing there<g ref="char:EOLhyphen"/>of by both Houſes of Parliament, as the ſaid Houſes ſhall judge fit and convenient; That then ſuch Bill or Bills ſo paſſed by the ſaid Lords and Commons as aforeſaid, and to which the Royall Aſſent ſhall not be
+<pb n="9" facs="tcp:175028:7"/>given, as is herein before expreſſed, ſhall nevertheleſſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter declaration of the ſaid Lords and Commons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade in that behalf, have the force and ſtrength of an Act or Acts of Parliament; And ſhall be as valid to all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tents and purpoſes, as if the Royall Aſſent had been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iven thereunto.</p>
+               <p>Provided, that nothing herein before contained <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall extend to the taking away of the ordinary legall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower of Sheriffs, Juſtices of Peace, Mayors, Bailiffs, Coroners, Conſtables, Headboroughs, or other Officers of Juſtice not being millitary Officers, con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erning the adminiſtration of Juſtice, ſo as neither the ſaid Sheriffs, Juſtices of the Peace, Mayors, Bailiffs, Coroners, Conſtables, Headboroughs and other Officers, nor any of them, doe leavy, conduct, imploy, or command any forces whatſoever, by colour or pre<g ref="char:EOLhyphen"/>tence of any Commiſſion of Array, or extraordinary command from his Majeſtie, his Heirs or Succeſſors, without the conſent of the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons.</p>
+               <p>And if any perſon ſhall be gathered and aſſembled together in warlike manner, or otherwiſe, to the num<g ref="char:EOLhyphen"/>ber of thirty perſons, and ſhall not forthwith disband themſelves being required thereto by the ſaid Lords and Commons, or command from them, or any by them, eſpecially authorized for that purpoſe, then ſuch perſon and perſons not ſo disbanding themſelves, ſhall be guilty, and incurre the pains of high Treaſon, being firſt declared guiltie of ſuch offence by the ſaid Lords and Commons; Any Commiſſion under the great Seal or other warrant to the contrary notwithſtanding.</p>
+               <p>And he, or they that ſhall offend herein, to be
+<pb n="10" facs="tcp:175028:8"/>incapable of any pardon from his Majeſtie, his Heirs o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Succeſſors, and their Eſtates ſhall be diſpoſed as the ſaid Lords and Commons ſhall think fit, and not otherwiſe<g ref="char:punc">▪</g>
+               </p>
+               <p>Provided that the City of <hi>London,</hi> ſhall have and injoy all their Rights, Liberties and Franchiſes, Cu<g ref="char:EOLhyphen"/>ſtomes and uſages, in the raiſing and imploying the Forces of that City, for the defence thereof, in as full and ample manner, to all intents and purpoſes, as they have or might have uſed or enjoyed the ſame at any time before the making of the ſaid Act or Propoſition; To the end that City may be fully aſſured, it is not the intention of the Parliament to take from them any priviledges or immunities, in raiſing or diſpoſing of their Forces, which they have or might have uſed or injoyed heretofore.</p>
+               <p>The like for the Kingdome of <hi>Scotland,</hi> if the Eſtates of the Parliament there ſhall thinke fit.</p>
+            </div>
+            <div n="14" type="part">
+               <p>XIV. That by Act of Parliament, all Peers made ſince the day that <hi>Edward</hi> Lord <hi>Littleton,</hi> then Lord Keeper of the Great Seale deſerted the Parliament; And that the ſaid Great Seal was ſerruptitiouſly conveyed away from the Parliament; being the one and twentieth day of <hi>May,</hi> 1642. And who ſhall be hereafter made ſhall not ſit of Vote in the Parliament of <hi>England,</hi> with<g ref="char:EOLhyphen"/>out conſent of both Houſes of Parliament: And that all honour, and Title conferred on any without con<g ref="char:EOLhyphen"/>ſent of both Houſes of Parliament, ſince the twentieth of <hi>May,</hi> 1642. being the day that both Houſes de<g ref="char:EOLhyphen"/>clared, That the King ſeduced by evil Counſell, in<g ref="char:EOLhyphen"/>tended to raiſe warre againſt the Parliament, be de<g ref="char:EOLhyphen"/>clared Null and Void.</p>
+               <p>The like for the Kingdome of <hi>Scotland,</hi> thoſe being
+<pb n="11" facs="tcp:175028:8"/>excepted, whoſe Patents were paſſed the Great Seale before the 4. of <hi>June,</hi> 1644.</p>
+            </div>
+            <div n="15" type="part">
+               <p>XV. That an Act be paſſed in the Parliaments of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth Kingdomes reſpectively, for confirmation of the Treaties paſſed betwixt the two Kingdoms <hi>(viz.)</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he large Treaty, the late Treaty for the coming of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cots Army into <hi>England,</hi> and the ſetling of the Gar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon of <hi>Barwick</hi> of the 29. of <hi>November</hi> 1643. and the Treaty concerning <hi>Ireland,</hi> of the 6. of Auguſt 1642. or the bringing of ten thouſand Scots into the Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince of Ulſter in <hi>Ireland,</hi> with all other Ordinances <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd proceedings paſſed betwixt the two Kingdomes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd whereunto they are obliged by the aforeſaid Trea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies.</p>
+               <p>And that <hi>Algernon</hi> Earle of Northumberland, <hi>John</hi> Earle of Rutland, <hi>Philip</hi> Earle of Pembroke and Mont<g ref="char:EOLhyphen"/>gomery, <hi>Robert</hi> Earle of Eſſex, <hi>Thcophilus</hi> Earle of Lin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olne, <hi>James</hi> Earle of Suffolke, <hi>Robert</hi> Earle of War<g ref="char:EOLhyphen"/>wick, <hi>Edward</hi> Earle of Mancheſter, <hi>Henry</hi> Earle of Stan<g ref="char:EOLhyphen"/>ford, <hi>Francis</hi> Lord <hi>Dacres, Philip</hi> Lord <hi>Wharton, Francis</hi> Lord <hi>Willoughby, Dudly</hi> Lord <hi>North, John</hi> Lord <hi>Hunſ<g ref="char:EOLhyphen"/>don, William</hi> Lord <hi>Gray, Edward</hi> Lord <hi>Howard</hi> of Eſt<g ref="char:EOLhyphen"/>rick, <hi>Thomas</hi> Lord <hi>Bruce, Ferdinando</hi> Lord <hi>Fairefax,</hi> M. <hi>Nathaniel Fines,</hi> Sir <hi>William Armine,</hi> Sir <hi>Philip Sta<g ref="char:EOLhyphen"/>pleton,</hi> Sir <hi>Henry Vane</hi> ſenior, M. <hi>William Pierpoint,</hi> Sir <hi>Edward Aiſcough,</hi> Sir <hi>William Strickland,</hi> Sir <hi>Arthur Haſilrig,</hi> Sir <hi>John Fenwick,</hi> Sir <hi>William Brereton,</hi> Sir <hi>Thomas Widdrington,</hi> M. <hi>John Toll,</hi> M. <hi>Gilbert Melling<g ref="char:EOLhyphen"/>ton,</hi> Sir <hi>William Conſtable,</hi> Sir <hi>John Wray,</hi> Sir <hi>Henry Vane</hi> junior, M. <hi>Henry Darley, Oliver Saint John</hi> Eſquire, His Majeſties Solicitor Generall, M. <hi>Denzill Hollis,</hi> M. <hi>Alex. Rigby,</hi> M. <hi>Cornelius Holland,</hi> M. <hi>Samuel Vaſſell,</hi> M. <hi>Pere<g ref="char:EOLhyphen"/>grine
+<pb n="12" facs="tcp:175028:9"/>Pelham, John Glyn</hi> Eſquire, Recorder of London, M. <hi>Henry Martin,</hi> Maſter Alderman <hi>Hoyle,</hi> M. <hi>John Blakiſton,</hi> M. Serjeant <hi>Wilde,</hi> M. <hi>Richard Barwis,</hi> Sir <hi>Anthony Irby,</hi> M. <hi>Aſhurſt,</hi> M. <hi>Bellingham,</hi> and M. <hi>Talſon,</hi> Members of both Houſes of the Parliament of <hi>Erg<g ref="char:EOLhyphen"/>land,</hi> ſhall be the Commiſſioners for the Kingdom of <hi>England,</hi> for conſervation of the Peace between the two Kingdoms, to act according to the Powers in that behalfe expreſſed in the Articles of the large Treaty, and not otherwiſe.</p>
+               <p>That His Majeſtie give his aſſent to what the two Kingdoms ſhall agree upon in proſecution of the Ar<g ref="char:EOLhyphen"/>ticles of the large Treaty, which are not yet finiſhed.</p>
+            </div>
+            <div n="16" type="part">
+               <p>XVI. That an Act be paſſed in the Parliaments of both Kingdomes reſpectively, for eſtabliſhing the joynt Declaration of both Kingdoms, bearing date the 30 day of January 1643 in <hi>England,</hi> and 1644 in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> with the Qualifications enſuing.</p>
+               <div n="1" type="subpart">
+                  <head>1. <hi>Qualification.</hi>
+                  </head>
+                  <p>THat the Perſons who ſhall expect no pardon be onely theſe following.</p>
+                  <p>
+                     <hi>Rupert</hi> and <hi>Maurice</hi> Count Palatines of Rhine, <hi>James</hi> Earle of Darby, <hi>John</hi> Earle of Briſtoll, <hi>William</hi> Earle of Newcaſtle, <hi>Francis</hi> Lord <hi>Cottington, George</hi> Lord <hi>Digby, Matthew Wren</hi> Biſhop of Ely, Sir <hi>Robert Heath</hi> Knight, Doctor <hi>Bramhall</hi> Biſhop of Derry, Sir <hi>William Widdrington,</hi> Colonell <hi>George Goringe, Henry Jermin</hi> Eſquire, Sir <hi>Ralph Hopton,</hi> Sir <hi>John Biron,</hi> Sir <hi>Francis Doddington,</hi> Sir <hi>John Strangwayes,</hi> M. <hi>Endymion Porter,</hi> Sir <hi>George Radcliffe,</hi> Sir <hi>Marmaduke Langdale,
+<pb n="13" facs="tcp:175028:9"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nry Vaughan</hi> Eſquire, now called Sir <hi>Henry Vaughan, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Francis Windebank,</hi> Sir <hi>Richard Greenvill,</hi> M. <hi>Edward <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>de</hi> now called Sir <hi>Edward Hide,</hi> Sir <hi>John Marlcy,</hi> Sir <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>holas Cole,</hi> Sir <hi>Thomas Riddell</hi> junior, Sir <hi>John C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<g ref="char:EOLhyphen"/>per,</hi> M. <hi>Richard Lloyd</hi> now called Sir <hi>Richard Lloyd, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> David Jenkins,</hi> Sir <hi>George Strode, George Carteret</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uire, now called Sir <hi>George Carteret,</hi> Sir <hi>Charles Dal<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>n</hi> Knight, <hi>Richard Lane</hi> Eſquire, now called Sir <hi>Ri<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rd Lane,</hi> Sir <hi>Edward Nicholas, John Aſhburnham</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>quire, Sir <hi>Edward Harbert</hi> Knight, His Majeſties At<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ey Generall. Earle of <hi>Traquaire,</hi> Lord <hi>Harris,</hi> Lord <hi>Rae, George Gordoun</hi> ſometime Marqueſſe of Hunt<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <hi>James Grahame</hi> ſometime Earle of Montroſe, <hi>Ro<g ref="char:EOLhyphen"/>be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, Maxwell</hi> late Earle of Niddeſdale, <hi>Robert Dalyell</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>etime Earle of Carnewath, <hi>James Gordoun</hi> ſome<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es Viſcount of <hi>Aboyne, Lodowick Lindſey</hi> ſome<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Earle of Crawfurd, <hi>James Ogley</hi> ſometime Earle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Airby, <hi>James Ogley</hi> ſometime Lord <hi>Ogley, Patrick R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hven</hi> ſometime Earle of Forth, <hi>James King</hi> ſome<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Lord Itham, <hi>Alaſter Macdonald, Irwing</hi> younger o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prunim, <hi>Gordon</hi> younger of <hi>Gight, Leſly</hi> of Auchen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, Colonell <hi>John Cockram, Grahame</hi> of Gorthie, M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>John Maxwell,</hi> ſometime pretended Biſhop of Roſſe: And all ſuch others as being Proceſſed by the Eſtates for Treaſon, ſhall be condemned before the Act of Ob<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on be paſſed.</p>
+               </div>
+               <div n="2" type="subpart">
+                  <head>2. <hi>Qualification.</hi>
+                  </head>
+                  <p>ALl Papiſts and Popiſh Recuſants, who have been, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> now are, or ſhall be actually in Arms, or volun<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y aſſiſting againſt the Parliament, or Eſtates of ei<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r Kingdom:</p>
+                  <pb n="14" facs="tcp:175028:10"/>
+                  <p> And by name, The Marqueſſe of <hi>Winton,</hi> Earle of Worceſter, <hi>Edward</hi> Lord <hi>Harbert</hi> of Ragland ſon to the Earle of Worceſter, Lord <hi>Brudnell, Carell Molli<g ref="char:EOLhyphen"/>neux</hi> Eſquire, Lord Arundell of Warder, Sir <hi>Francis Howard,</hi> Sir <hi>John Winter,</hi> Sir <hi>Charles Smith,</hi> Sir <hi>John Preſton,</hi> Sir <hi>Bazill Brook,</hi> Lord <hi>Audley</hi> Earle of Ca<g ref="char:EOLhyphen"/>ſtelhaven in the Kingdom of <hi>Ireland, William Sheldon</hi> of Beely Eſquire, Sir <hi>Henry Beddingfield.</hi>
+                  </p>
+               </div>
+               <div n="3" type="subpart">
+                  <head>3. <hi>Qualification.</hi>
+                  </head>
+                  <p>ALl perſons who have had any hand in the plot<g ref="char:EOLhyphen"/>ting, deſigning, or aſſiſting the Rebellion of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> except ſuch perſons who having onely aſſiſted the ſaid Rebellion, have rendred themſelves, or come in to the Parliament of <hi>England.</hi>
+                  </p>
+               </div>
+               <div n="4" type="subpart">
+                  <head>4. <hi>Qualification.</hi>
+                  </head>
+                  <p>THat <hi>Humfrey Bennet</hi> Eſquire, Sir <hi>Edward Ford</hi> Sir <hi>John Penruddock,</hi> Sir <hi>George Vaughan,</hi> Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>John Weld,</hi> Sir <hi>Robert Lee,</hi> Sir <hi>John Pate, John Ackland Edmund Windham</hi> Eſquire, Sir <hi>John Fitzharbert,</hi> Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Edward Lawrence,</hi> Sir <hi>Ralph Dutton, Henry Lingen</hi> 
+                     <abbr>Eſq</abbr> Sir <hi>William Ruſſell</hi> of Worceſterſhire, <hi>Thomas Lee</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Adlington Eſquire, Sir <hi>John Girlington,</hi> Sir <hi>Paul Neale</hi> Sir <hi>William Thorald,</hi> Sir <hi>Edward Huſſey,</hi> Sir <hi>Thomas Lid<g ref="char:EOLhyphen"/>dell</hi> ſenior, Sir <hi>Philip Muſgrave,</hi> Sir <hi>John Digby</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Nottinghamſhire, Sir <hi>Henry Fletcher,</hi> Sir <hi>Richard Mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſhall, Laurence Halſtead, John Denham</hi> Eſquire, Sir <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>mund Forteſcue, Peter Sainthill</hi> Eſquire, Sir <hi>Thom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Tildeſley,</hi> Sir <hi>Henry Griffith, Michael Wharton</hi> Eſquire
+<pb n="15" facs="tcp:175028:10"/>Sir <hi>Henry Spiller,</hi> M. <hi>George Benyon</hi> now called Sir <hi>George <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nyon,</hi> Sir <hi>Edward Walgrave,</hi> Sir <hi>Edward Biſhop,</hi> Sir <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bert Owſelcy,</hi> Sir <hi>John Many,</hi> Lord <hi>Cholmley,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>as Aſton,</hi> Sir <hi>Lewis Dives,</hi> Sir <hi>Peter Orbourne, Samuel <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ornton</hi> Eſquire, Sir <hi>John Lucas, John Blancy</hi> Eſquire, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r <hi>Thomas Chedle,</hi> Sir <hi>Nicholas Kemiſh, Hugh Lloyd</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quire, Sir <hi>Nicholas Criſpe,</hi> Sir <hi>Peter Ricant.</hi>
+                  </p>
+                  <p>And all ſuch of the Scottiſh Nation as have concur<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in the Votes at <hi>Oxford,</hi> againſt the Kingdome of <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>otland</hi> and their proceedings, or have ſworne or ſub<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ibed the Declaration againſt the convention and Co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nant; And all ſuch as have aſſiſted the Rebellion in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orth, or the Invaſion in the South of the ſaid King<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me of <hi>Scotland,</hi> or the late Invaſion made there by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Iriſh &amp; their adherents, be removed from his Maje<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es Councells, and be reſtrained from comming with<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Vorge of the Court, and that they may not with<g ref="char:EOLhyphen"/>out the advice and conſent of both Houſes of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arliament of <hi>England,</hi> or the Eſtates in the Parlia<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent of <hi>Scotland</hi> reſpectively, bear any Office, or have any imployment concerning the State or Common-Wealth; And in caſe any of them ſhall offend therein, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be guiltie of high Treaſon, and incapable of any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rdon from His Majeſty, and their eſtates to be diſ<g ref="char:EOLhyphen"/>poſed as both Houſes of the Parliament of <hi>England,</hi> or the Eſtates of the Parliament in <hi>Scotland</hi> reſpectively ſhall think fit: And that one full third part upon full <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alue of the eſtates of the perſons aforeſaid, made in<g ref="char:EOLhyphen"/>capable of imployment as aforeſaid, be imployed for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he payment of the Publike Debts, and Dammages, ac<g ref="char:EOLhyphen"/>cording to the Declaration.</p>
+                  <div n="1" type="section">
+                     <pb n="16" facs="tcp:175028:11"/>
+                     <head>1. <hi>Branch.</hi>
+                     </head>
+                     <p>That the late Members, or any who pretended them<g ref="char:EOLhyphen"/>ſelves late Members of either Houſe of Parliament, who have not onely deſerted the Parliament, but have alſo ſat in the unlawfull Aſſembly at <hi>Oxford,</hi> called, or pretended by ſome to be a Parliament, and Voted both Kingdoms Traytors, and have not voluntarily rendred themſelves before the laſt of October 1644. be remo<g ref="char:EOLhyphen"/>ved from His Majeſties Councels, and reſtrained from coming within the Verge of the Court, And that they may not without the advice and conſent of both King<g ref="char:EOLhyphen"/>doms bear any Office, or have any imployment con<g ref="char:EOLhyphen"/>cerning the State or Common wealth: And in caſe any of them ſhall offend therein, to be guilty of high Trea<g ref="char:EOLhyphen"/>ſon, and incapable of any pardon by His Majeſtie, and their eſtates to be diſpoſed as both Houſes of Parlia<g ref="char:EOLhyphen"/>ment in <hi>England,</hi> or the Eſtates of the Parliament of <hi>Scotland</hi> reſpectively, ſhall think fit.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>2. <hi>Branch.</hi>
+                     </head>
+                     <p>That the late Members, or any who pretended them<g ref="char:EOLhyphen"/>ſelves Members of either Houſe of Parliament, who have ſat in the unlawfull Aſſembly at <hi>Oxford,</hi> called or pretended by ſome to be a Parliament, and have not voluntarily rendred themſelves before the laſt of Octo<g ref="char:EOLhyphen"/>ber 1644. be removed from His Majeſties Councels, and reſtrained from coming within the Verge of the Court; And that they may not without the advice and conſent of both Houſes of Parliament bear any Office, or have any imployment concerning the State or Com<g ref="char:EOLhyphen"/>mon wealth: And in caſe any of them ſhall offend
+<pb n="17" facs="tcp:175028:11"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>herein, to be guilty of high Treaſon, and incapable of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ny pardon from His Majeſtie, and their eſtates to be diſpoſed as both Houſes of the Parliament of <hi>England</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>all think fit.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>3. <hi>Branch.</hi>
+                     </head>
+                     <p>That the late Members, or any who pretended them<g ref="char:EOLhyphen"/>ſelves Members of either Houſe of Parliament, who have deſerted the Parliament, and adhered to the Ene<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ies thereof, and have not rendred themſelves before the laſt of October 1644. be removed from His Maje<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ies Councels, and be reſtrained from coming within the Verge of the Court; And that they may not with<g ref="char:EOLhyphen"/>out the advice and conſent of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment bear any Office, or have any imployment concer<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing the State or Common wealth: And in caſe any of them ſhall offend therein, to be guilty of high Treaſon, and incapable of any pardon from His Majeſtie, and their eſtates to be diſpoſed as both Houſes of Parlia<g ref="char:EOLhyphen"/>ment in <hi>England</hi> ſhall think fit.</p>
+                  </div>
+               </div>
+               <div n="5" type="subpart">
+                  <head>5. <hi>Qualification.</hi>
+                  </head>
+                  <p>THat all Judges, and Officers towards the Law, Common or Civil, who have deſerted the Par<g ref="char:EOLhyphen"/>liament, and adhered to the Enemies thereof, be incapa<g ref="char:EOLhyphen"/>ble of any place of Judicature or Office towards the Law, Common or Civil: And that all Serjeants, Coun<g ref="char:EOLhyphen"/>cellers, and Atturneys, Doctors, Advocates, and Pro<g ref="char:EOLhyphen"/>ctors of the Law, Common or Civil, who have deſert<g ref="char:EOLhyphen"/>ed the Parliament, and adhered to the Enemies thereof, be incapable of any practiſe in the Law, Common or
+<pb n="18" facs="tcp:175028:12"/>Civil, either in publike or private, and ſhall not be ca<g ref="char:EOLhyphen"/>pable of any preferment or imployment in the Com<g ref="char:EOLhyphen"/>mon wealth, without the advice and conſent of both Houſes of Parliament; And that no Biſhop or Clergy<g ref="char:EOLhyphen"/>man, no Maſter or Fellow of any Colledge or Hall, in either of the Univerſities, or elſewhere, or any Maſter of Schoole or Hoſpitall, or any Eccleſiaſticall perſon, who hath deſerted the Parliament, and adhered to the Enemies thereof, ſhall hold or enjoy, or be capable of any preferment or imployment in Church or Com<g ref="char:EOLhyphen"/>mon wealth; But all their ſaid ſeverall preferments, places, and promotions, ſhall be utterly void, as if they were naturally dead; Nor ſhall they otherwiſe uſe their Function of the Miniſtery without advice and conſent of both Houſes of Parliament: Provided, that no Laps ſhall incurre by ſuch vacancie untill ſix moneths paſt, after notice thereof.</p>
+               </div>
+               <div n="6" type="subpart">
+                  <head>6. <hi>Qualification.</hi>
+                  </head>
+                  <p>THat all perſons who have been actually in Arms againſt the Parliament, or have counſelled, or voluntarily aſſiſted the Enemies thereof, are diſabled to be Sheriffs, Juſtices of the Peace, Maiors, or other head Officers of any City or Corporation, Commiſ<g ref="char:EOLhyphen"/>ſioners of <hi>Oyer</hi> and <hi>Terminer,</hi> or to ſit or ſerve as Members or aſſiſtants in either of the Houſes of Par<g ref="char:EOLhyphen"/>liament, or to have any Military imployment in this Kingdom without the conſent of both Houſes of Par<g ref="char:EOLhyphen"/>liament.</p>
+               </div>
+               <div n="7" type="subpart">
+                  <pb n="19" facs="tcp:175028:12"/>
+                  <head>7. <hi>Qualification.</hi>
+                  </head>
+                  <p>THe perſons of all others to be free of all perſo<g ref="char:EOLhyphen"/>nall cenſure, notwithſtanding any act or thing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one, in, or concerning this Warre, they taking the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ovenant.</p>
+               </div>
+               <div n="8" type="subpart">
+                  <head>8. <hi>Qualification.</hi>
+                  </head>
+                  <p>THe eſtates of thoſe perſons excepted in the firſt three precedent Qualifications; and the eſtates of <hi>Edward</hi> Lord <hi>Littleton,</hi> and of <hi>William Laud</hi> late Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury,</hi> to pay publike debts and dammages.</p>
+               </div>
+               <div n="9" type="subpart">
+                  <head>9. <hi>Qualification.</hi>
+                  </head>
+                  <div n="1" type="section">
+                     <head>1. <hi>Branch.</hi>
+                     </head>
+                     <p>That two full parts in three, to be divided of all the eſtates of the Members of either Houſe of Parliament, who have not onely deſerted the Parliament, but have alſo Voted both Kingdoms Traitors, and have not ren<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed themſelves before the firſt of December 1645. ſhall be taken and imployed for the payment of the publike debts and dammages of the Kingdom.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>2. <hi>Branch.</hi>
+                     </head>
+                     <p>That two full parts in three, to be divided of the eſtates of ſuch late Members of either Houſe of Parli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ment, as ſat in the unlawfull Aſſembly at <hi>Oxford,</hi> and ſhall not have rendred themſelves before the firſt of December 1645. ſhall be taken and imployed for the payment of the publike debts and dammages of the Kingdom.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <pb n="20" facs="tcp:175028:13"/>
+                     <head>3. <hi>Branch.</hi>
+                     </head>
+                     <p>That one full Moitie of the Eſtates of ſuch Perſons late Members of either of the Houſes of Parliament, who have deſerted the Parliament, and adhered to the Enemies thereof, and ſhall not have rendred themſelves before the firſt of <hi>December</hi> 1645. ſhall be taken and employed for the payment of the publike debts and dammages of the Kingdome.</p>
+                  </div>
+               </div>
+               <div n="10" type="subpart">
+                  <head>10. <hi>Qualification.</hi>
+                  </head>
+                  <p>THat a full third part on the value of the Eſtates of all Judges and Officers towards the Law, Com<g ref="char:EOLhyphen"/>mon or Civill, and of all Serjeants, Councellors, and A<g ref="char:EOLhyphen"/>turneyes, Doctors, Advocates, and Proctors of the Law, Common or Civill; And of all Biſhops, Clergy<g ref="char:EOLhyphen"/>men, Maſters and Fellows of any Colledge or Hall in either of the Univerſities, or elſewhere; And of all Maſters of Schooles, or Hoſpitalls, and of Eccleſiaſti<g ref="char:EOLhyphen"/>call Perſons who have deſerted the Parliament, and adhered to the enemies thereof, and have not rendered themſelves before the firſt of <hi>December</hi> 1645. ſhall be taken and employed for the payment of the Publike debts and dammages of the Kingdome.</p>
+                  <p>That a full ſixth part on the full Value of the E<g ref="char:EOLhyphen"/>ſtates of the perſons excepted in the fixth Qualification concerning ſuch as have been actually in Armes againſt the Parliament, or have Councelled or voluntarily aſſiſted the Enemies thereof, and are diſabled according to the ſaid Qualification, to be taken and employed for the payment of the publike debts and dammages of the Kingdome.</p>
+               </div>
+               <div n="11" type="subpart">
+                  <pb n="21" facs="tcp:175028:13"/>
+                  <head>11. <hi>Qualification.</hi>
+                  </head>
+                  <p>THat the Perſons and Eſtates of all Common Souldiers, and others of the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> who in Lands or Goods bee not worth two hun<g ref="char:EOLhyphen"/>dred pounds Sterling: And the Perſons and Eſtates of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Common Souldiers and others of the Kingdome of <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>land,</hi> who in Lands or Goods bee not worth one hundred pounds Sterling, be at liberty and diſcharged.</p>
+                  <div n="1" type="section">
+                     <head>1. <hi>Branch.</hi>
+                     </head>
+                     <p>This Propoſition to ſtand as to the Engliſh, and as to the Scots likewiſe; If the Parliament of <hi>Scotland</hi> or their Commiſſioners ſhall ſo think fit.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>2. <hi>Branch.</hi>
+                     </head>
+                     <p>That the firſt of <hi>May</hi> laſt, is now the day limited <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the perſons to come in that are compriſed within the former Qualification.</p>
+                     <p>That an Act be paſſed, whereby the Debts of the Kingdome, and the Perſons of Delinquents, and the value of their Eſtates may be known: And which Act ſhall appoint in what manner the Confiſcations and Proportions before mentioned may be leavyed, and applyed to the diſcharge of the ſaid Engagments.</p>
+                     <p>The like for the Kingdome of <hi>Scotland,</hi> if the E<g ref="char:EOLhyphen"/>ſtates of Parliament, or ſuch as ſhall have power from them ſhall think fit.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="17" type="part">
+               <p>XVII. That an Act of Parliament be paſſed, to de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re and make voyd the Ceſſation of <hi>Ireland,</hi> and all Treaties and Concluſions of Peace, or any Articles
+<pb n="22" facs="tcp:175028:14"/>thereupon with the Rebels, without conſent of both Houſes of Parliament. And to ſettle the Proſecution of the Warre of <hi>Ireland</hi> in both Houſes of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> to be managed by them: And the King to aſſiſt, and to do no act to diſcountenance or moleſt them therein.</p>
+               <p>That Reformation of Religion according to the Covenant be ſettled in the Kingdome of <hi>Ireland</hi> by Act of Parliament, in ſuch manner as both Houſes of the Parliament of <hi>England</hi> have agreed, or ſhall agree upon, after Conſultation had with the Aſſembly of Divines here.</p>
+               <p>That the Deputy, or chief Governour, or other Governours of <hi>Ireland,</hi> and the Preſidents of the ſe<g ref="char:EOLhyphen"/>verall Provinces of that Kingdome be nominated by both the Houſes of the Parliament of <hi>England,</hi> or in the Intervalls of Parliament, by ſuch Committees of both Houſes of Parliament, as both Houſes of the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> ſhall nominate and appoint for that purpoſe. And that the Chancellor, or Lord Keeper, Lord Treaſurer, Commiſſioners of the great Seal or Treaſury, Lord Warden of the Cinque Ports, Chan<g ref="char:EOLhyphen"/>cellor of Exchequer and Dutchy; Secretaries of State, Maſter of the Rolls, Judges of both Benches, and Barons of the Exchequer of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and the Vice Treaſurer, and Treaſurers at Warres of the Kingdome of <hi>Ireland</hi> bee nominated by both Houſes of the Parliament of <hi>England,</hi> to conti<g ref="char:EOLhyphen"/>nue <hi>Quam diu ſe bene geſſerint,</hi> and in the Intervalls of Parliament by the afore-mentioned Committees; to bee approved, or diſallowed by both Houſes at their next fitting.</p>
+               <pb n="23" facs="tcp:175028:14"/>
+               <p> The like for the Kingdome of <hi>Scotland,</hi> concerning <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he nomination of the Lords of the Privy Councell, Lords of Seſſion and Exchequer, Officers of State and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtice Generall, in ſuch manner as the Eſtates of Par<g ref="char:EOLhyphen"/>liament there ſhall think fit.</p>
+            </div>
+            <div n="18" type="part">
+               <p>XVIII. That the <hi>Militia</hi> of the City of <hi>London,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>berties thereof, may be in the ordering and govern<g ref="char:EOLhyphen"/>ment of the Lord Major, Aldermen, and Commons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Common Councell aſſembled, or ſuch as they ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om time to time appoint, (whereof the Lord Major <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Sheriffs for the time being to be three:) To be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ployed and directed from time to time in ſuch man<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er as ſhal be agreed on, and appointed by both Houſes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parliament.</p>
+               <p>That no Citizen of the City of <hi>London,</hi> nor any of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Forces of the ſaid City, ſhall be drawn forth or compelled to goe out of the ſaid City or Liberties <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereof for Military ſervice, without their owne free <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſent.</p>
+               <p>That an Act be paſſed for the granting and con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rming of the Charters, Cuſtomes, Liberties, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anchiſes of the City of <hi>London,</hi> notwithſtanding any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onuſer, Miſuſer, or Abuſer.</p>
+               <p>That the Tower of <hi>LONDON</hi> may be in the Government of the City of <hi>LONDON.</hi> And the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hief Officer and Governour thereof from time to time be nominated and remooveable by the Common-Councel: and for prevention of inconveniencies which may happen by the long intermiſſion of Common-Councells, it is deſired, That there may be an Act, that all by Lawes and Ordinances already made, or hereafter to be made, by the Lord Major, Alder<g ref="char:EOLhyphen"/>men,
+<pb n="24" facs="tcp:175028:15"/>and Commons, in Common-Councel aſſembled, touching the Calling, continuing, directing, and re<g ref="char:EOLhyphen"/>gulating the ſame Common-Councells, ſhall be as effectuall in Law to all Intents and Purpoſes as if the ſame were particularly Enacted by the Authority of Parliament: And that the Lord Major, Aldermen, and Commons in Common Councell, may add to, or Repeale the ſaid Ordinances from time to time as they ſhall ſee cauſe.</p>
+               <p>That ſuch other Propoſitions as ſhall be made for the City, for their further ſafety, welfare, and Go<g ref="char:EOLhyphen"/>vernment, and ſhall be approved of by both Houſes of Parliament, may be granted and confirmed by Act of Parliament.</p>
+            </div>
+            <div n="19" type="part">
+               <p>XIX. That all grants, Commiſſions, Preſentations, Writs, Proceſs, proceedings, and other things paſſed under the Great Seale of <hi>England</hi> in the cuſtody of the Lords and others Commiſſioners appointed by both Houſes of Parliament for the Cuſtody thereof, be, and by Act of Parliament with the Royall aſſent, ſhall be declared and Enacted to bee of like full force, and effect to all Intents and purpoſes, as the ſame or like grants, Commiſſions, Preſentations, Writs, proceſſe, procedings, and other things under any great Seale of <hi>England,</hi> in any time heretofore were, or have been; And that for time to come the ſaid great Seale now remaining in cuſtody of the ſaid Commiſſioners, con<g ref="char:EOLhyphen"/>tinue, and bee uſed for the great Seale of <hi>England:</hi> And that all Grants, Commiſſions, preſentations, Writs, Proceſſe, proceedings, and other things what<g ref="char:EOLhyphen"/>ſoever, paſſed under or by authority of any other great Seale, ſince the 22. day of <hi>May, Anno Dom.</hi> 1642. or
+<pb n="25" facs="tcp:175028:15"/>hereafter to be paſſed, be <hi>Invalid,</hi> and of no effect, to all Intents and purpoſes: Except ſuch Writs, proceſſe, and Commiſſions, as being paſſed under any other great Seale, then the ſaid great Seale in the Cuſtody of the Commiſſioners aforeſaid, on or after the ſaid 22. day of <hi>May,</hi> and before the 28 day of <hi>November, Anno Dom.</hi> 1643. were afterward proceeded upon, returned into, or put in ure in any the Kings Courts at <hi>Weſtminſter:</hi> And except the Grant to Mr. Juſtice <hi>Bacon,</hi> to bee one of the Juſtices of the Kings Bench. And except all Acts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd proceedings by vertue of any ſuch Commiſſions of Goale Delivery, Aſſize, and <hi>Niſi prius,</hi> or <hi>Oyer</hi> and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erminer,</hi> paſſed under any other great Seale then the Seale aforeſaid in cuſtody of the ſaid Commiſſioners before the firſt of October, 1642.</p>
+               <p>And that all Grants of Offices, Lands, Tene<g ref="char:EOLhyphen"/>ments, or hereditaments, made, or paſſed under the great Seale of <hi>Ireland</hi> unto any perſon or perſons, Bodies Politique or Corporate, ſince the Ceſſation made in <hi>Ireland,</hi> the fifteenth day of <hi>September,</hi> 1643. ſhall bee Null, and void. And that all Honours and Titles con<g ref="char:EOLhyphen"/>ferred upon any perſon or perſons in the ſaid Kingdom <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>Ireland,</hi> ſince the ſaid Ceſſation, ſhall be Null, and void.</p>
+               <closer>
+                  <signed>Joh. Browne Cler. Parliamentorum.</signed>
+                  <signed>H. Elſynge Cler. Parl. Dom. Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="26" facs="tcp:175028:16"/>
+            <head>His Majeſties Anſwer to the Propoſi<g ref="char:EOLhyphen"/>tions preſented to Him at <hi>Newcaſtle</hi> the 24 day of <hi>July</hi> 1646.</head>
+            <opener>
+               <byline>By the Earles of <hi>Pembroke</hi> and <hi>Suffolk,</hi> Sir <hi>Walter Earle,</hi> and Sir <hi>John Hippeſley</hi> Knights, and M. <hi>Goodwin</hi> and M. <hi>Robinſon,</hi> Commiſſioners from the Lords and Commons, aſſembled in the Parliament of <hi>England,</hi> in the name, and in the behalf of the Kingdom of <hi>England</hi> and <hi>Ireland:</hi> And by the Earle of <hi>Loudoun</hi> Chan<g ref="char:EOLhyphen"/>cellor of <hi>Scotland,</hi> and the Marqueſſe of <hi>Ar<g ref="char:EOLhyphen"/>gyle,</hi> Commiſſioners of the Parliament of <hi>Scotland,</hi> in the name, and in the behalf of the Kingdom of <hi>Scotland.</hi>
+               </byline>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Propoſitions tendred to His Majeſtie by the Com<g ref="char:EOLhyphen"/>miſsioners from the Lords and Commons aſſembled in the Parliament of <hi>England</hi> at <hi>VVeſt<g ref="char:EOLhyphen"/>minſter,</hi> and the Commiſsioners of the Parliament of <hi>Scotland</hi> (to which the Houſes of Parliament have taken twice
+<pb n="27" facs="tcp:175028:16"/>ſo any moneths for deliberation, as they have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gned dayes for His Majeſties Anſwer) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> import ſo great alteration in Government, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Church and Kingdom, as it is very <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>icult to return a particular and poſitive An<g ref="char:EOLhyphen"/>ſwer, before a full debate, wherein theſe Propo<g ref="char:EOLhyphen"/>ſions and the neceſſary Explanations, true <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and reaſons therof be rightly weighed and underſtood, and that his Majeſtie (upon a full <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the whole Propoſitions) may know what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as well as what is taken away and chan<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d: In all which His Majeſty finds (upon diſ<g ref="char:EOLhyphen"/>courſe with the ſaid Commiſsioners) that they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo bound up from any capacity, either to give Pleaſons for the Demands they bring, or to give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſuch deſires as His Majeſtie is to propone, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is impoſsible for him to give ſuch a preſent judgement of, and Anſwer to theſe Propoſitions, whereby he can anſwer to God, that a ſafe and well-grounded Peace will enſue (which is evi<g ref="char:EOLhyphen"/>dent to all the world, can never be, unleſſe the juſt
+<pb n="28" facs="tcp:175028:17"/>power of the Crown, as well as the freedom and propriety of the Subject, with the juſt Liberty and Priviledges of Parliament be likewiſe ſet<g ref="char:EOLhyphen"/>led.) To which end His Majeſtie deſires and propoſeth to come to <hi>London,</hi> or any of Hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſes thereabouts, upon the Publike Faith, and ſecurity of the two Houſes of His Parliament, and the Scots Commiſsioners; that he ſhall be there with freedom, honour, and ſafety, where<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by his perſonall preſence, he may not onely raiſe a mutuall confidence betwixt him and his people, but alſo have theſe doubts cleared, and theſe dif<g ref="char:EOLhyphen"/>ficulties explained unto him, which he now con<g ref="char:EOLhyphen"/>ceives to be deſtructive to his juſt Regall power, if he ſhould give a full conſent to theſe Propoſi<g ref="char:EOLhyphen"/>tions as they now ſtand: As likewiſe that he might make known to them ſuch his reaſonable Demands, as he is moſt aſſured wil be very much conducible to that happy Peace which all good men deſire and pray for, by ſetling of Religion, the juſt priviledges of Parliament, with the
+<pb n="29" facs="tcp:175028:17"/>freedom and propriety of the Subject: And His <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ajeſty aſſures them, that as he can never con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>end unto what is abſolutely deſtructive to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t juſt Power, which by the Laws of God and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Land he is born unto, ſo he will cheerfully <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt and give his aſſent unto all ſuch Bills (at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſire of his two Houſes) or reaſonable De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nds for <hi>Scotland,</hi> which ſhal be really for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and peace of his people, not having a regard <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his own particular (much leſſe of any bodies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) in reſpect to the happineſſe of theſe King<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s: Wherefore his Majeſty conjures them, as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riſtians, as Subjects, and as men who deſires to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve a good name behinde them, that they will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> receive and make uſe of this Anſwer, that all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es of blood may be ſtopped, and theſe unhap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e diſtractions peaceably ſetled.</p>
+            <closer>
+               <dateline>
+                  <hi>At</hi> New-caſtle <hi>the firſt day of <date>Auguſt 1646.</date>
+                  </hi>
+               </dateline>
+               <pb n="30" facs="tcp:175028:18"/>
+               <signed>Charles R.</signed>
+            </closer>
+            <postscript>
+               <p>Upon aſſurance of a happy agreement His Majeſtie will immediately ſend for the Prince His Son, abſolutely anſwering for his perfect obedience</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175028:18"/>
+            <pb facs="tcp:175028:19"/>
+            <pb facs="tcp:175028:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
